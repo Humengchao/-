@@ -26,7 +26,7 @@
 
    + 截图用电脑端截图，且要体现**华为云账号名**、**付款金额**、**订单号**。
 
-   ![截图示例](http://image.lolored.com/img.png)
+   ![截图示例](http://image.lolored.com/img.png "截图示例")
 
    
 
