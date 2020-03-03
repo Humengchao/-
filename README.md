@@ -2,15 +2,15 @@
 ---
 ##### 大致流程
 
-1. 先去这里注册账号：**[注册账号](http://t.cn/A6h5pa8I)**， 注意：必须得在这个链接注册的账号才行。
+1. 先去这里注册账号： **[注册账号](http://t.cn/A6h5pa8I)** ， 注意：必须得在这个链接注册的账号才行。
 
 2. 注册完成后自行实名认证。
 
-3. 认证好后进入  **[活动链接](https://activity.huaweicloud.com/2020feb_promotion/index.html?channelFrom=MTEyMw==&utm_source=lyy&utm_medium=off-cn&utm_campaign=yesky&utm_content=0228b)** （活动机中的1c2g的机器每天有一定限度，9:30开卖，大概卖到11:00卖光，其他规模的机器不限量） 购买，或者购买  **[学生机](https://developer.huaweicloud.com/campus?productType=KC1_1&timeType=3&regionType=1&domainItemData=)**(购买学生机得实名认证的身份证在24周岁以下)。
+3. 认证好后进入  **[活动链接](https://activity.huaweicloud.com/2020feb_promotion/index.html?channelFrom=MTEyMw==&utm_source=lyy&utm_medium=off-cn&utm_campaign=yesky&utm_content=0228b)** （活动机中的1c2g的机器每天有一定限度，9:30开卖，大概卖到11:00卖光，其他规模的机器不限量） 购买，或者购买  **[学生机](https://developer.huaweicloud.com/campus?productType=KC1_1&timeType=3&regionType=1&domainItemData=)** (购买学生机得实名认证的身份证在24周岁以下)。
 
-4. 购买完成后先去**[问卷网](http://gn3fi3uo1fovay4v.mikecrm.com/q409BJ3)**提交信息。（体重秤会根据这个信息里的地址派送）
+4. 购买完成后先去 **[问卷网](http://gn3fi3uo1fovay4v.mikecrm.com/q409BJ3)** 提交信息。（体重秤会根据这个信息里的地址派送）
 
-5. 加我**微信号(HMCHXD)**进行返现。   
+5. 加我 **微信号(HMCHXD)** 进行返现。   
 
    返现要求发给我：
 
@@ -22,7 +22,7 @@
 
    ##### 注意事项：
 
-   + 此次活动必须得在**[指定链接](http://t.cn/A6h5pa8I)**注册的新用户才行，每个人可以注册实名多个账号，所以以前有过华为云账号的这次也可以参加活动。
+   + 此次活动必须得在 **[指定链接](http://t.cn/A6h5pa8I)** 注册的新用户才行，每个人可以注册实名多个账号，所以以前有过华为云账号的这次也可以参加活动。
 
    + 截图用电脑端截图，且要体现**华为云账号名**、**付款金额**、**订单号**。
 
